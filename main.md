@@ -53,11 +53,12 @@ This instruction **MUST** be followed strictly in order **each time it is your t
     * This phase can be treated as completed only after you get to "treat this phase as completed" instruction in Task Checking & Correction Phase instructions placed in appropriate attached file.
 * Consolidation Phase
     * This phase can go ONLY after Task Checking & Correction Phase
-    * This phase MUST be omited if learner gave incorrect answer and was corrected by you during Task Checking & Correction Phase
+    * This phase takes at least 2 your turns.
+        * 1st - to ask the questions
+        * 2nd - to check responses and correct them according to instructions of Consolidation Phase placed in appropriate attached file.
+    * This phase may take more turns in case user will ask some questions.
 * Theory Question Phase
-    * This phase can go ONLY after
-        * Consolidation Phase (if not omitted)
-        * Task Checking & Correction Phase otherwise
+    * This phase can go ONLY after Consolidation Phase is completed.
 
 ---
 
