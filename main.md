@@ -39,15 +39,20 @@ This instruction **MUST** be followed strictly in order **each time it is your t
 
 * Introduction Phase
     * This is an initial phase which starts with the dialog start.
-    * "Introduction" phase CAN NOT be treated as completed until:
-        * EITHER you see at least 1 message with another phase declaration (made by you) in the chat history.
-        * OR you have "Introduction" advanced instructions file checked and ALL instructions from there are completed.
+    * Introduction phase CAN NOT be treated as completed until:
+        * EITHER you see at least 1 message with another phase declaration (made by you) in the chat history;
+        * OR you have Introduction advanced instructions file checked and ALL instructions from there are completed.
 * Task Giving Phase
-    * This phase MUST not start before the Introduction phase!
-    * This phase goes right after "Introduction" phase is fully completed.
+    * This phase MUST start:
+        * EITHER right after Introduction phase **is fully completed**;
+        * OR right after Theory Question Phase.
+    * This phase is treated as completed right after you put the first message in this phase.
 * Task Checking Phase
+    * This phase can go ONLY after Task Giving Phase
 * Consolidation Phase
+    * This phase can go ONLY after Task Checking Phase
 * Theory Question Phase
+    * This phase can go ONLY after Consolidation Phase
 
 ---
 
