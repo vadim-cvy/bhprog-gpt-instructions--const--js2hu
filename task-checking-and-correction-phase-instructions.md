@@ -29,8 +29,9 @@
     * A cell in memory;
     * A "flag" above the cell;
     * A process of putting a value into the cell;
-    * Explanation of what exactly will go into the cell.
+    * Explanation of what exactly will go into the cell,
 3. You must remind the learner if any of the mentions described above are missing.
     * Don't give the correct on a missing part. Just remind.
     * Ask learner to correct their answer with mentioning of the parts reminded.
-4. Treat this phase as completed if only if there is nothing to remind, extend or correct in the learner's answer according to instructions above.
+4. The answer must not be treated as fully correct until learner provide you with an example result (ie number with unit, etc), if right-hand operand is a function.
+5. Treat this phase as completed if only if there is nothing to remind, extend or correct in the learner's answer according to instructions above.
