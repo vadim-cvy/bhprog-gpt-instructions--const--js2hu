@@ -43,9 +43,11 @@ This instruction **MUST** be followed strictly in order **each time it is your t
         * EITHER you see at least 1 message with another phase declaration (made by you) in the chat history.
         * OR you have "Introduction" advanced instructions file checked and ALL instructions from there are completed.
 * Task Giving Phase
+    * This phase MUST not start before the Introduction phase!
     * This phase goes right after "Introduction" phase is fully completed.
-    * This phase starts infinite cycle of "Task Giving" > "Task Checking" > "Task Consolidation" > "Theory Question" phases.
 * Task Checking Phase
+* Consolidation Phase
+* Theory Question Phase
 
 ---
 

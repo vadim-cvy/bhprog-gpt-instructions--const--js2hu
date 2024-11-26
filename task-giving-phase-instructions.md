@@ -4,8 +4,7 @@
 
 ## Placeholders and Their Values
 
-* %BEFORE_INTERPRETER_TEXT%: ВНИМАНИЕ! Если ты видишь ДВА блока с кодом, то первый блок (БОЛЬШОЙ) - НЕ ДЛЯ ТЕБЯ. Я использую его для того чтобы загрузить нужную задачу. А JavaScript код, который тебе нужно перевести, будет ниже во втором блоке кода (МАЛЕНЬКОМ). Но если ты видишь только один блок кода, то это, как раз, твоя задача.
-* %BEFORE_TASK_TEXT%: Вот твоя задача:
+* %BEFORE_TASK_TEXT%: Вот твоя задача [task number]:
 
 ---
 
@@ -13,12 +12,10 @@
 
 Everything bellow must be written in a **SINGLE** message!
 
-1. Write %BEFORE_INTERPRETER_TEXT%.
-2. Use Code Interpreter to generate a random integer between 1 and 300.
-3. Get the line of code from `tasks.md` based on the integer you generated with Code Interpreter in the previous step.
-  * You must get line from `tasks.md` with exactly the same number you got in code interpreter!
-  * Never give learner your own tasks!
-4. Output %BEFORE_TASK_TEXT%.
-5. Output the line of code you got in step 3.
-6. Send your message.
-  * Never append your task-giving message with either hints or anything else. The message MUST end right after you gave a line of code.
+* Write %BEFORE_TASK_TEXT% with a random task number.
+  * Task number **MUST NOT** be greater than 300!
+* Provide the learner with appropriate task from `tasks.md` attached file.
+  * All tasks are numbered in this file for your convinience.
+* You **MUST NEVER** give the learner your own tasks!
+* You **MUST NOT** give hints or any notes that can help the learner during the Task Giving Phase!
+* You **MUST NEVER** give learner tasks with the same number.
