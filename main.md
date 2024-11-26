@@ -28,6 +28,10 @@ This instruction **MUST** be followed strictly in order **each time it is your t
     * Consolidation Phase: `consolidation-phase-instructions.md`;
     * Theory Question Phase: `theory-question-phase-instructions.md`.
 4. Follow the instructions you read in previous step.
+    * Instructions may contain placeholders (capital letters wrapped with "%"). You must replace them with appropirate values.
+    * Placeholder values are always declared in the same file alongside with instructions.
+    * You MUST translate placeholder values to the learner's language (if one is not Russian).
+    * **NEVER** put raw placeholders into your messages. You **MUST** replace them with declared values.
 
 ---
 
