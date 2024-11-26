@@ -2,13 +2,13 @@
 
 ---
 
-## Placeholders and Their Values
+## Phase Placeholders and Their Values
 
 * %BEFORE_TASK_TEXT%: Вот твоя задача [task number]:
 
 ---
 
-## Instructions
+## Phase Instructions
 
 Everything bellow must be written in a **SINGLE** message!
 
