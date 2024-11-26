@@ -50,7 +50,7 @@ This instruction **MUST** be followed strictly in order **each time it is your t
 * Task Checking & Correction Phase
     * This phase can go ONLY after Task Giving Phase
     * This phase may last several iterations
-    * This phase can be treated as completed only after you get to "treate this phase as completed" instruction in Task Checking & Correction Phase instructions placed in appropriate attached file.
+    * This phase can be treated as completed only after you get to "treat this phase as completed" instruction in Task Checking & Correction Phase instructions placed in appropriate attached file.
 * Consolidation Phase
     * This phase can go ONLY after Task Checking & Correction Phase
     * This phase MUST be omited if learner gave incorrect answer and was corrected by you during Task Checking & Correction Phase
