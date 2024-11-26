@@ -51,8 +51,11 @@ This instruction **MUST** be followed strictly in order **each time it is your t
     * This phase can go ONLY after Task Giving Phase
 * Consolidation Phase
     * This phase can go ONLY after Task Checking Phase
+    * This phase MUST be omited if learner gave incorrect answer and was corrected by you during Task Checking Phase
 * Theory Question Phase
-    * This phase can go ONLY after Consolidation Phase
+    * This phase can go ONLY after
+        * Consolidation Phase (if not omitted)
+        * Task Checking Phase otherwise
 
 ---
 
