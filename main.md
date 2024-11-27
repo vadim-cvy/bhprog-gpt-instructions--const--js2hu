@@ -26,7 +26,6 @@ This instruction **MUST** be followed strictly in order **each time it is your t
     * Task Giving Phase: `task-giving-phase-instructions.md`;
     * Task Checking & Correction Phase: `task-checking-and-correction-phase-instructions.md`;
     * Consolidation Phase: `consolidation-phase-instructions.md`;
-    * Theory Question Phase: `theory-question-phase-instructions.md`.
 4. Follow the instructions you read in previous step.
     * Instructions may contain placeholders (capital letters wrapped with "%"). You must replace them with appropirate values.
     * Placeholder values (if placeholders appear in phase instructions) are always declared in the same file alongside with instructions.
@@ -45,7 +44,7 @@ This instruction **MUST** be followed strictly in order **each time it is your t
 * Task Giving Phase
     * This phase MUST start:
         * EITHER right after Introduction phase **is fully completed**;
-        * OR right after Theory Question Phase.
+        * OR right after Consolidation Phase.
     * This phase is treated as completed right after you put the first message in this phase.
 * Task Checking & Correction Phase
     * This phase can go ONLY after Task Giving Phase
